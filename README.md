@@ -20,6 +20,9 @@ The dataset includes information on layoffs such as:
 - Company stage
 - Date of layoffs
 
+Source:
+Kaggle – Tech Layoffs Dataset  
+[https://www.kaggle.com/datasets/swaptr/layoffs-2022]
 ---
 
 ## Objectives
